@@ -505,10 +505,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
-      "pos_files": "",
+      "plot": "Production/Gerber/",
+      "pos_files": "Production/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "CL70_PCB.step",
       "svg": "",
       "vrml": ""
     },

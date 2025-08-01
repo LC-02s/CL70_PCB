@@ -10512,8 +10512,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22k"
-			(at 80.264 36.83 90)
+		(property "Value" "22"
+			(at 80.518 36.83 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10580,8 +10580,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22k"
-			(at 83.82 46.99 90)
+		(property "Value" "22"
+			(at 83.312 46.99 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16768,7 +16768,7 @@
 			)
 		)
 		(property "Value" "330"
-			(at 52.07 227.33 90)
+			(at 52.832 227.33 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16836,7 +16836,7 @@
 			)
 		)
 		(property "Value" "330"
-			(at 52.07 250.19 90)
+			(at 52.832 250.19 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22322,7 +22322,7 @@
 			)
 		)
 		(property "Value" "330"
-			(at 52.07 238.76 90)
+			(at 52.832 238.76 90)
 			(effects
 				(font
 					(size 1.27 1.27)
